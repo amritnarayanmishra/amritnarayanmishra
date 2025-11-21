@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Medi Guard<br><br>🌱 I’m currently learning PCB Designing<br><br>💬 Ask me about Arduino,NodeMCU,ESP32,Raspberry Pi<br>
+🔭 I’m currently working on **Medi Guard**<br><br>🌱 I’m currently learning **PCB Designing**<br><br>💬 Ask me about **Arduino,NodeMCU,ESP32,Raspberry Pi**<br>
 
 
 ## 🌐 Socials:
