@@ -1,3 +1,9 @@
+ <p align="center">
+      <img alt="GIF" src="https://github.com/amritnarayanmishra/amritnarayanmishra/blob/main/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif">
+</p>
+<h1 align="center">Hi 👋, I'm Amrit Narayan</h1>
+
+
 # 💫 About Me:
 🔭 I’m currently working on **Medi Guard**<br><br>🌱 I’m currently learning **PCB Designing**<br><br>💬 Ask me about **Arduino,NodeMCU,ESP32,Raspberry Pi**<br>
 
