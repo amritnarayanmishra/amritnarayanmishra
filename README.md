@@ -5,9 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritnarayanmishra&label=Profile%20views&color=0e75b6&style=flat" alt="amritnarayanmishra" /> </p> 
 
-# 💫 About Me:
-🔭 I’m currently working on **Medi Guard**<br><br>🌱 I’m currently learning **PCB Designing**<br><br>💬 Ask me about **Arduino,NodeMCU,ESP32,Raspberry Pi**<br>
 
+# 💫 About Me:
+   <p align = 'right'>
+          <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="35%">
+   </p>
+   
+🔭 I’m currently working on **Medi Guard**<br><br>🌱 I’m currently learning **PCB Designing**<br><br>💬 Ask me about **Arduino,NodeMCU,ESP32,Raspberry Pi**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +24,9 @@
 
 
 ## 📊 GitHub Stats  
+
+
+
 ![](https://nirzak-streak-stats.vercel.app/?user=amritnarayanmishra&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amritnarayanmishra&theme=dark&hide_border=false&layout=compact)
 
